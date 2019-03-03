@@ -19,7 +19,8 @@ fi
 
 typeset -a c_size=()
 typeset -i size si_2
-c_size=(512 256 128 32 16)
+#c_size=(512 256 128 32 16)
+c_size=(512 256 128)
 
 mkdir -p "${iconset}"
 

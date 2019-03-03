@@ -38,7 +38,8 @@ double_f=true
 unsharp="1.5x1+0.7+0.02"
 
 typeset -a c_size=()
-c_size=(512 256 128 32 16)
+#c_size=(512 256 128 32 16)
+c_size=(512 256 128)
 
 typeset -i size si_2
 

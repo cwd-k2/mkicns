@@ -12,7 +12,6 @@ iconset="${tmp_dir}/app.iconset"
 
 # Retina 用に @2 を作るかのフラグ
 double_f=true
-double_f=true
 
 if ! [[ -f "${file}" ]] ; then
     error "unable to locate file:" "${file}"
